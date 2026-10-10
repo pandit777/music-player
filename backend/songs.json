@@ -4,7 +4,7 @@
     "title": "Barsaane Wali Radhe",
     "artist": "Bihari Ji, Devi Neha Saraswat, and Gaurav Krishna Goswami",
     "cover": "https://cdn.phototourl.com/member/2026-09-27-c1eb0035-d6e4-46e9-9168-9ad4a6046365.jpg",
-    "link": "http://localhost:5000/songs/Barsaane_wali_Radhe.mp3",
+    "link": "https://music-player-wji3.onrender.com/songs/Barsaane_wali_Radhe.mp3",
     "type": "local",
     "duration": "44:53"
   },
@@ -14,7 +14,7 @@
     "title": "Hanuman Chalisha",
     "artist": "Gulshan Kumar",
     "cover": "https://cdn.phototourl.com/member/2026-09-27-98f1f82d-a2c1-4f5e-8973-c5761f67633a.jpg",
-    "link": "http://localhost:5000/songs/Hanuman_Chalisha.mp3",
+    "link": "https://music-player-wji3.onrender.com/songs/Hanuman_Chalisha.mp3",
     "type": "local",
     "duration": "09:45"
   },
@@ -24,7 +24,7 @@
     "title": "Bajrang Baan",
     "artist": "Gulshan Kumar",
     "cover": "https://cdn.phototourl.com/member/2026-09-27-041199b2-bd59-4f40-beb4-b3eacd57d8f4.jpg",
-    "link": "http://localhost:5000/songs/Bajrang_Baan.mp3",
+    "link": "https://music-player-wji3.onrender.com/songs/Bajrang_Baan.mp3",
     "type": "local",
     "duration": "07:40"
   },
@@ -34,7 +34,7 @@
     "title": "Hey Shambhu Baba Mere Bhole Naath",
     "artist": "Gulshan Kumar",
     "cover": "https://cdn.phototourl.com/member/2026-09-27-fec3bc5a-1e32-4aaa-bf62-387abade440f.jpg",
-    "link": "http://localhost:5000/songs/Hey_shambhu_baba_mere_bhole_naath.mp3",
+    "link": "https://music-player-wji3.onrender.com/songs/Hey_shambhu_baba_mere_bhole_naath.mp3",
     "type": "local",
     "duration": "05:18"
   },
@@ -44,7 +44,7 @@
     "title": "Hey Mahaveer Karo Kalyan",
     "artist": "Gulshan Kumar",
     "cover": "https://cdn.phototourl.com/member/2026-09-27-ac1dc511-fe5b-4835-9f74-a35f28daabcc.jpg",
-    "link": "http://localhost:5000/songs/Hey Mahaveer Karo Kalyan.mp3",
+    "link": "https://music-player-wji3.onrender.com/songs/Hey Mahaveer Karo Kalyan.mp3",
     "type": "local",
     "duration": "04:31"
   },
@@ -54,7 +54,7 @@
     "title": "Maa Sherawaliye Tera Sher Aa Gya ",
     "artist": "Sonu Nigam",
     "cover": "https://cdn.phototourl.com/member/2026-09-27-a0cbd3e9-7317-4f03-9921-b724223fdcb8.jpg",
-    "link": "http://localhost:5000/songs/Maa_Sherawaliye.mp3",
+    "link": "https://music-player-wji3.onrender.com/songs/Maa_Sherawaliye.mp3",
     "type": "local",
     "duration": "07:06"
   },
@@ -64,7 +64,7 @@
     "title": "Aaja Maa Ek Baar Mere Ghar Aaj Maa",
     "artist": "Sonu Nigam",
     "cover": "https://cdn.phototourl.com/member/2026-09-27-7b80a939-ff08-4a63-a614-a0c5e12d8003.jpg",
-    "link": "http://localhost:5000/songs/Aaja-Maa-Ek-Baar-Mere-Ghar-Aaja-Full-Song-Maiya-Kahan-Meelegi-Mela-Laga.mp3",
+    "link": "https://music-player-wji3.onrender.com/songs/Aaja-Maa-Ek-Baar-Mere-Ghar-Aaja-Full-Song-Maiya-Kahan-Meelegi-Mela-Laga.mp3",
     "type": "local",
     "duration": "05:28"
   }
