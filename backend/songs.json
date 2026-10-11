@@ -76,5 +76,23 @@
     "link": "https://music-player-wji3.onrender.com/songs/saware_ko_dil_me.mp3",
     "type": "local",
     "duration": "10:18"
+  },
+  {
+    "id": "9",
+    "title": "Keejo Kesari Ke Laal",
+    "artist": "Lakhbir Singh Lakha",
+    "cover": "https://cdn.phototourl.com/member/2026-10-11-ccbc754a-a7f2-44d2-8351-45bf989624f4.jpg",
+    "link": "https://music-player-wji3.onrender.com/songs/Keejo_Kesari_Ke_Laal_5.mp3",
+    "type": "local",
+    "duration": "6:12"
+  },
+  {
+    "id": "9",
+    "title": "Sankat Harnewale Ko Hanuman Kehte Hain",
+    "artist": "Lakhbir Singh Lakha",
+    "cover": "https://cdn.phototourl.com/member/2026-10-11-263ce8b9-bedc-4346-8ba3-0689c628039b.jpg",
+    "link": "https://music-player-wji3.onrender.com/songs/Sankat_Harnewale_Ko_Hanuman_Kehte_hai.mp3",
+    "type": "local",
+    "duration": "6:56"
   }
 ]
