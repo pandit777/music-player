@@ -145,5 +145,41 @@
   "link": "https://music-player-wji3.onrender.com/songs/Har%20Dil%20Jo%20Pyar%20Karega%20Dj%20Remix%20High%20Bass-(DjChand.org).mp3",
   "type": "local",
   "duration": "03:59"
+},
+{
+  "id": "16",
+  "title": "Lal Dupatta Udd Gaya Re Hawa Ke Jhoke Se Dj Remix High Bass (DjChand.Org)",
+  "artist": "Alka Yagnik and Udit Narayan",
+  "cover": "https://cdn.phototourl.com/member/2026-10-11-acbc79b2-dd74-46b9-8460-2b3a4e27436c.jpg",
+  "link": "https://music-player-wji3.onrender.com/songs/Lal%20Dupatta%20Udd%20Gaya%20Re%20Hawa%20Ke%20Jhoke%20Se%20Dj%20Remix%20High%20Bass-(DjChand.org).mp3",
+  "type": "local",
+  "duration": "04:11"
+},
+{
+  "id": "16",
+  "title": "Odhni Odh Ke Naachu Sad Dailogue High Bass Dj Remix",
+  "artist": "Udit Narayan and Alka Yagnik",
+  "cover": "https://img.sanishtech.com/u/a7ee2f16195eb52b0db51a3521b58e0e.jpg",
+  "link": "https://music-player-wji3.onrender.com/songs/Odhni%20Odh%20Ke%20Naachu%20Sad%20Dailogue%20High%20bass%20Dj%20Remix-(DjChand.org).mp3",
+  "type": "local",
+  "duration": "04:34"
+},
+{
+  "id": "17",
+  "title": "Yo Rohtak Hai (Amit Saini Rohtakiya) Dj Remix High Vibrate Bass (DjChand.Org)",
+  "artist": "Amit Saini Rohtakiya",
+  "cover": "https://img.sanishtech.com/u/e2960762c1102c352b09a570ab1c0e9e.jpg",
+  "link": "https://music-player-wji3.onrender.com/songs/Yo%20Rohtak%20Hai%20(Amit%20Saini%20Rohtakiya)%20Dj%20Remix%20High%20Vibrate%20Bass-(DjChand.org).mp3",
+  "type": "local",
+  "duration": "03:13"
+},
+{
+  "id": "18",
+  "title": "Matak Chalungi Dj Remix High Bass Sapna Choudhary Vibration Mix DjChand Fx (DjChand.Org)",
+  "artist": "Raj Mawar and Manisha Sharma.",
+  "cover": "https://img.sanishtech.com/u/729bb9f7437cc04129541104125ec210.jpg",
+  "link": "https://music-player-wji3.onrender.com/songs/Matak%20chalungi%20dj%20remix%20%20High%20Bass%20Sapna%20Choudhary%20%20Vibration%20Mix%20%20DjChand%20Fx-(DjChand.org).mp3",
+  "type": "local",
+  "duration": "02:31"
 }
 ]
