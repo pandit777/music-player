@@ -1,0 +1,237 @@
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Song Adder Tool</title>
+
+<style>
+*{box-sizing:border-box}
+body{
+  margin:0;padding:20px;background:#0b1020;color:#fff;
+  font-family:Arial,sans-serif
+}
+.container{
+  max-width:620px;margin:auto;padding:24px;
+  background:#182136;border-radius:16px
+}
+h2{color:#ffbd59}
+label{display:block;margin:16px 0 7px}
+input,textarea,button{
+  width:100%;padding:12px;border-radius:8px;font-size:15px
+}
+input,textarea{
+  background:#0d1424;color:white;border:1px solid #394761
+}
+input[readonly],textarea[readonly]{color:#b7c6df}
+button{
+  margin-top:14px;border:0;background:#ffbd59;
+  color:#151515;font-weight:bold;cursor:pointer
+}
+button:disabled{opacity:.6}
+.secondary{background:#35435d;color:white}
+#coverPreview{
+  display:none;width:120px;height:120px;
+  object-fit:cover;margin-top:10px;border-radius:10px
+}
+#status{margin-top:15px;white-space:pre-wrap;overflow-wrap:anywhere}
+</style>
+</head>
+
+<body>
+<div class="container">
+  <h2>🎵 Song Adder</h2>
+
+  <label>Song ID (Auto)</label>
+  <input id="songId" readonly placeholder="Auto ID">
+
+  <label>Select MP3 File</label>
+  <input type="file" id="audioFile" accept=".mp3,audio/mpeg">
+
+  <label>Song Title</label>
+  <input id="title" placeholder="Song title">
+
+  <label>Artist Name</label>
+  <input id="artist" placeholder="Singer name">
+
+  <label>Cover Image URL</label>
+  <input id="cover" type="url" placeholder="https://example.com/cover.jpg">
+  <img id="coverPreview" alt="Cover preview">
+
+  <label>Song Link (Auto)</label>
+  <input id="link" readonly>
+
+  <button id="uploadBtn" onclick="uploadSong()">
+    Upload Song & Save JSON
+  </button>
+
+  <label>Generated JSON</label>
+  <textarea id="output" rows="12" readonly></textarea>
+  <button class="secondary" onclick="copyJSON()">Copy JSON</button>
+
+  <label>All Saved Songs</label>
+  <button class="secondary" onclick="loadSongs()">Refresh Songs</button>
+  <textarea id="songList" rows="8" readonly></textarea>
+
+  <div id="status"></div>
+</div>
+
+<script>
+const API_BASE = "https://music-player-wji3.onrender.com";
+const SONG_BASE = API_BASE + "/songs/";
+
+const $ = id => document.getElementById(id);
+let selectedFile = null;
+
+function status(message) {
+  $("status").textContent = message;
+}
+
+function makeTitle(filename) {
+  return filename
+    .replace(/\.[^.]+$/, "")
+    .replace(/[_-]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/\b\w/g, c => c.toUpperCase());
+}
+
+$("audioFile").addEventListener("change", function() {
+  selectedFile = this.files[0] || null;
+  $("output").value = "";
+
+  if (!selectedFile) {
+    $("link").value = "";
+    return;
+  }
+
+  if (!selectedFile.name.toLowerCase().endsWith(".mp3")) {
+    selectedFile = null;
+    this.value = "";
+    status("Sirf MP3 file select karein.");
+    return;
+  }
+
+  $("title").value = makeTitle(selectedFile.name);
+  $("link").value =
+    SONG_BASE + encodeURIComponent(selectedFile.name);
+
+  status("");
+});
+
+$("cover").addEventListener("input", function() {
+  const preview = $("coverPreview");
+  preview.style.display = "none";
+
+  if (this.value.trim()) {
+    preview.onload = () => preview.style.display = "block";
+    preview.onerror = () => preview.style.display = "none";
+    preview.src = this.value.trim();
+  } else {
+    preview.removeAttribute("src");
+  }
+});
+
+async function loadSongs() {
+  try {
+    const response = await fetch(API_BASE + "/songs-meta");
+    if (!response.ok) throw new Error("Songs load nahi hue");
+
+    const songs = await response.json();
+    $("songList").value = JSON.stringify(songs, null, 2);
+
+    const maxId = songs.reduce((max, song) => {
+      const n = Number(song.id);
+      return Number.isSafeInteger(n) && n > max ? n : max;
+    }, 0);
+
+    $("songId").value = String(maxId + 1);
+  } catch (e) {
+    status("Backend connect nahi hua: " + e.message);
+  }
+}
+
+async function uploadSong() {
+  if (!selectedFile) {
+    status("Pehle MP3 file select karein.");
+    return;
+  }
+
+  const title = $("title").value.trim();
+  const artist = $("artist").value.trim();
+  const cover = $("cover").value.trim();
+
+  if (!title || !artist || !cover) {
+    status("Title, artist aur cover URL bharein.");
+    return;
+  }
+
+  $("uploadBtn").disabled = true;
+  status("Uploading...");
+
+  try {
+    const data = new FormData();
+    data.append("audio", selectedFile);
+    data.append("title", title);
+    data.append("artist", artist);
+    data.append("cover", cover);
+
+    const response = await fetch(API_BASE + "/upload-song", {
+      method: "POST",
+      body: data
+    });
+
+    const result = await response.json();
+    if (!response.ok) throw new Error(result.error || "Upload failed");
+
+    const song = {
+      id: result.id,
+      title: result.title,
+      artist: result.artist,
+      cover: result.cover,
+      link: result.link,
+      type: result.type,
+      duration: result.duration
+    };
+
+    $("songId").value = result.id;
+    $("link").value = result.link;
+    $("output").value = JSON.stringify(song, null, 2);
+
+    selectedFile = null;
+    $("audioFile").value = "";
+
+    status("Song upload ho gaya aur songs.json mein save ho gaya!");
+
+    await loadSongs();
+    $("songId").value = result.id;
+    $("output").value = JSON.stringify(song, null, 2);
+  } catch (e) {
+    status("Error: " + e.message);
+  } finally {
+    $("uploadBtn").disabled = false;
+  }
+}
+
+async function copyJSON() {
+  const value = $("output").value;
+  if (!value) {
+    status("Pehle song upload karein.");
+    return;
+  }
+
+  try {
+    await navigator.clipboard.writeText(value);
+    status("JSON copied!");
+  } catch {
+    $("output").select();
+    document.execCommand("copy");
+    status("JSON copy karne ki koshish ki gayi.");
+  }
+}
+
+loadSongs();
+</script>
+</body>
+</html>
