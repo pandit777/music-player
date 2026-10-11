@@ -8,7 +8,6 @@
     "type": "local",
     "duration": "44:53"
   },
-
   {
     "id": "2",
     "title": "Hanuman Chalisha",
@@ -18,7 +17,6 @@
     "type": "local",
     "duration": "09:45"
   },
-
   {
     "id": "3",
     "title": "Bajrang Baan",
@@ -28,7 +26,6 @@
     "type": "local",
     "duration": "07:40"
   },
-
   {
     "id": "4",
     "title": "Hey Shambhu Baba Mere Bhole Naath",
@@ -38,7 +35,6 @@
     "type": "local",
     "duration": "05:18"
   },
-
   {
     "id": "5",
     "title": "Hey Mahaveer Karo Kalyan",
@@ -48,7 +44,6 @@
     "type": "local",
     "duration": "04:31"
   },
-
   {
     "id": "6",
     "title": "Maa Sherawaliye Tera Sher Aa Gya ",
@@ -58,7 +53,6 @@
     "type": "local",
     "duration": "07:06"
   },
-
   {
     "id": "7",
     "title": "Aaja Maa Ek Baar Mere Ghar Aaj Maa",
@@ -94,5 +88,35 @@
     "link": "https://music-player-wji3.onrender.com/songs/Sankat_Harnewale_Ko_Hanuman_Kehte_hai.mp3",
     "type": "local",
     "duration": "6:56"
+  },
+  {
+    "id": "10",
+    "title": "Ram Na Milenge Hanuman Ke Bina",
+    "artist": "Lakhbir Singh Lakha",
+    "cover": "https://cdn.phototourl.com/member/2026-10-11-8a96605f-e6d0-4b5b-abc1-da30f3a6cac6.jpg",
+    "link": "https://music-player-wji3.onrender.com/songs/Ram_Na_Milenge_Hanuman_Ke_Bina_1.mp3",
+    "type": "local",
+    "duration": "07:05",
+    "filename": "Ram_Na_Milenge_Hanuman_Ke_Bina_1.mp3"
+  },
+  {
+    "id": "11",
+    "title": "Kali Kamli Wala Mera Yaar Hai",
+    "artist": "Chitra Vichitra Ji",
+    "cover": "https://cdn.phototourl.com/member/2026-10-11-8164a362-95d9-4158-afea-154fc4b470f9.jpg",
+    "link": "https://music-player-wji3.onrender.com/songs/Kali-Kamli-Wala-Mera-Yaar-Hai.mp3",
+    "type": "local",
+    "duration": "09:29",
+    "filename": "Kali-Kamli-Wala-Mera-Yaar-Hai.mp3"
+  },
+  {
+    "id": "12",
+    "title": "Jhum Jhum Nache Dekho Bhakt Ha 8",
+    "artist": "Lakhbir Singh Lakha",
+    "cover": "https://cdn.phototourl.com/member/2026-10-11-091a1147-3ef5-4b64-96db-14cc33454c86.jpg",
+    "link": "https://music-player-wji3.onrender.com/songs/Jhum_Jhum_Nache_Dekho_Bhakt_Ha_8.mp3",
+    "type": "local",
+    "duration": "05:21",
+    "filename": "Jhum_Jhum_Nache_Dekho_Bhakt_Ha_8.mp3"
   }
 ]

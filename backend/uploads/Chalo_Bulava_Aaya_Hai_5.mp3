@@ -1,0 +1,877 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" 
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>Punjabi Music | Punjabi Songs | Hindi music | Bhangra music | Bollywood MP3 PZ10 Raag.fm</title>
+<link rel="shortcut icon" href="http://music.raag.fm/header/headerv3/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/header/headerv3/stylev3.css?2013">
+<link rel="stylesheet" type="text/css" href="/header/headerv3/headerv3.css?2013">
+<link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+<style type="text/css">
+.topheaderlink {
+	color:#CCB;
+	font-family:Arial, Verdana, Times, serif;
+	font-size:13px;
+}
+.topheader {
+	width: 100%;
+	height: 30px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	margin: 0 0 0 0;
+	z-index: 999;
+	background-color:#3F3F3F;
+
+}
+* html .topheader { 
+	position: absolute;
+}
+</style>
+<meta property="fb:app_id" content="237952216246074"/>
+<script type="text/javascript" src="/script.js"></script>
+<script>
+function clearText(thefield){
+if (thefield.defaultValue==thefield.value)
+thefield.value = ""
+} 
+</script>
+<script language="javascript" type="text/javascript">
+<!--
+
+var win=null;
+var disabled={};
+
+    function play() {
+      window.open("http://player.raag.fm/player/","player","'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=584,height=542")
+     }
+
+
+
+    function send() {
+      window.open("http://music.pz10.com/send/","sendpage","toolbar=no,scrollbars=no,directories=no, statusbar=no,menubar=no,resizable=no,width=500,height=450")
+     }
+
+function cka(w,n,na) {
+j=document[w].elements[na];co=0;
+for(i=0;i<document[w].elements.length;i++){
+e=document[w].elements[i];
+if(e.name==n){
+if(typeof(disabled[co])=="undefined")
+e.checked=j.checked;
+co++;}
+}}
+
+// -->
+
+</script>
+<script type="text/javascript">
+function showHint(str)
+{
+if (str.length==0)
+  { 
+  document.getElementById("txtHint").innerHTML="";
+  return;
+  }
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+    }
+  }
+xmlhttp.open("GET","/search/gethint.php?q="+str,true);
+xmlhttp.send();
+}
+</script>
+<META NAME="description" CONTENT="Listen mp3 punjabi music songs hindi english pakistani ghazals pop film tamil urdu qawwali sad songs comedy uk remix bhangra songs.">
+<META NAME="keywords" CONTENT="punjabi mp3, punjabi songs, punjabi music ,hindi songs ,bhangra music ,hindi music,hindi movies music ,punjabi movies music ,religious music ,uk punjabi music ,ghazals music ,pop music ,sad songs music ,comedy music ,qawwali music ,urdu music ,tamil music ,pakistani music ,telugu music ,bengali music ,malayalam music ,kannada music ,gujarati music ,marathi music ,rajasthani music ,haryanavi music ,oriya music ">
+<meta name="robots" content="index, follow"><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16236169-1']);
+  _gaq.push(['_setDomainName', 'raag.fm']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W39N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W39N');</script>
+<!-- End Google Tag Manager -->
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '237952216246074', // App ID
+      channelUrl : 'http://music.raag.fm/channel.php', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+<div class="topheader">
+<table cellspacing="0" cellpadding="0" style="width: 935px" height="30" align="center">
+  <tr>
+    <td><a class="topheaderlink" href="http://music.raag.fm/">RaagFM Music</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://music2.pz10.com/">PZ10 Music</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://blog.raag.fm/">Blog</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://images.raag.fm/gallery.php">Image Hosting</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://videos.raag.fm/">HD Videos</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://forum.raag.fm/">Forum</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://music.raag.fm/contact/">Contact</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://blog.pz10.com">Pz Blog</a>&nbsp;&nbsp;&nbsp;<a class="topheaderlink" href="http://results.pz10.com">Results</a></td><td align="right"><form action="http://music.raag.fm/search-google.php" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-7357575986873010:8594504161" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</td>
+  </tr>
+</table>
+</div>
+<table cellspacing="0" cellpadding="0" style="width: 935px" height="30" align="center" class="header2">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0"  width="100%" height="40" class="header2">
+  <tr>
+    <td>
+<table cellspacing="0" cellpadding="0" style="width: 935px" align="center">
+  <tr>
+    <td>
+		<p class="style74">&nbsp;&nbsp;&nbsp;&nbsp;
+		<a class="style74" href="http://music.raag.fm/"><img src="http://music.raag.fm/header/headerv4/small-raag.fm-logo.gif" width="71" height="50" alt="Raag.fm PZ10.com" class="logo" /></a></td>
+<td align="center">
+<div class="search">
+                    <div class="searchform"><form action="/search/search.php" id="searchform" class="searchform" method="get">
+
+    <div id="searchinput">
+                <input value="Search artist, album or song.." onFocus="clearText(this)" onkeyup="showHint(this.value)" type="text" id="searchtext" name="srch" />
+    </div>
+</form><br><span id="txtHint"></span></div></div></div></td>
+    <td align="right"><p class="style74" align="right">
+        <div id="fb-root"></div>
+    <fb:login-button size="large" perms="email,status_update,publish_stream" autologoutlink="true"> Login with Facebook</fb:login-button>
+        <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '237952216246074',
+          status     : true, 
+          cookie     : true,
+          xfbml      : true,
+          oauth      : true,
+        });
+
+        FB.Event.subscribe('auth.login', function(response) {
+          window.location.reload();
+        });
+      };
+
+      (function(d){
+         var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+         js = d.createElement('script'); js.id = id; js.async = true;
+         js.src = "//connect.facebook.net/en_US/all.js";
+         d.getElementsByTagName('head')[0].appendChild(js);
+       }(document));
+    </script>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<table cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center">
+<link rel="stylesheet" type="text/css" href="/pro_drop_1/pro_drop_1.css" />
+
+<script src="/pro_drop_1/stuHover.js" type="text/javascript"></script>
+<span class="preload1"></span>
+<span class="preload2"></span>
+
+<ul id="nav">
+		<li class="top"><a class="top_link" href="http://music.raag.fm/"><span>Raag FM</span></a></li>
+		<li class="top"><a  class="top_link" href="http://music2.pz10.com"><span class="down">Music</span></a>
+			<ul class="sub">
+			
+				<li><a target="_blank" href="http://www.jattnetwork.com/">Jatt Network</a></li>
+				<li><a target="_blank" href="http://bollywoodmusic.raag.fm/">Bollywood Music</a>
+				<li><a target="_blank" href="http://punjabimusic.raag.fm/">Punjabi Music</a></li>
+				<li><a target="_blank" href="http://popmusiclive.blogspot.com/">Live Pop Music</a></li>
+				<li><a target="_blank" href="http://ukpunjabimusiconline.blogspot.com/">Uk Punjabi</a></li>
+				<li><a target="_blank" href="http://listengurbanionline.blogspot.com/">Gurbani</a></li>
+				<li><a target="_blank" href="http://www.khalsanetwork.com">Khalsa Network</a></li>
+				<li><a target="_blank" href="http://listenbhaktisangeet.blogspot.com/">Bhakti Sangeet</a></li>
+				<li><a target="_blank" href="http://sadsongsonline.blogspot.com/">Sad Songs</a></li>
+				</li>
+			</ul>
+		</li>
+ <li class="top"><a  target="_blank" class="top_link" href="http://music2.pz10.com/"><span class="down">PZ10</span></a>
+			<ul class="sub">
+				<li><a target="_blank" href="http://imp3hub.com/">Search Any Mp3</a></li>
+				<li><a target="_blank" href="http://coolnewszone.com/">Cool News Zone</a></li>
+				<li><a target="_blank" href="http://desihits.raag.fm/">Desi Hits</a></li>
+					</ul>
+		</li>
+		<li class="top"><a  target="_blank" class="top_link" href="http://videos.raag.fm"><span class="down">Videos</span></a>
+			<ul class="sub">
+				<li><a target="_blank" href="http://punjabihdvideos.blogspot.com/">Punjabi Music Videos</a></li>
+				<li><a target="_blank" href="http://bollywoodhd.raag.fm/">Hindi Music Videos</a></li>
+				<li><a target="_blank" href="http://www.getdocumentaryfilms.com/">Documentary Videos</a></li>
+				<li><a target="_blank" href="http://videos.raag.fm">All Videos</a></li>
+				<li><a target="_blank" href="http://gethdvideosonline.blogspot.com/">HD Videos</a></li>
+				<li><a target="_blank" href="http://punjabivideos.raag.fm/">Punjabi HD Videos</a></li>
+			</ul>
+		</li>
+		<li class="top"><a  target="_blank" class="top_link" href="http://bollywood.raag.fm"><span class="down">Bollywood</span></a>
+			<ul class="sub">
+				<li><a target="_blank" href="http://parineetichopraofficial.blogspot.com/">Parineeti Chopra</a></li>
+				<li><a target="_blank" href="http://top10bollywood.pz10.com/">Bollywood Top 10</a></li>
+				<li><a target="_blank" href="http://bollymeaning.raag.fm/">Meaning of Bolly Words</a></li>
+				<li><a target="_blank" href="http://www.getbollywoodmovies.com/">Watch Bollywood Movies Online</a></li>
+				<li><a target="_blank" href="http://afsaaneysartaajde.pz10.com/">Afsaaney Sartaj De</a></li>
+				<li><a target="_blank" href="http://bollywood.raag.fm/">Bollywood Updates</a></li>
+				<li><a target="_blank" href="http://www.yoyohs.com/">YO YO Honey Singh</a></li>
+                <li><a target="_blank" href="http://hindilyrics.raag.fm/">Hindi Lyrics</a></li>
+               
+			</ul>
+		</li>
+		<li class="top"><a  target="_blank" class="top_link" href="http://glambase.com"><span class="down">Hollywood</span></a>
+			<ul class="sub">
+				<li><a target="_blank" href="http://www.coolmusiczone.com/">English Music</a></li>
+				<li><a target="_blank" href="http://www.getjustinbieber.com/">Justin Bieber News</a></li>
+				<li><a target="_blank" href="http://www.getmileycyrus.com/">Miley Cyrus News</a></li>
+				<li><a target="_blank" href="http://www.getselenagomez.com/">Selena Gomez News</a></li>
+				<li><a target="_blank" href="http://britneyspearslatest.blogspot.com/">Britney Spears News</a></li>
+				<li><a target="_blank" href="http://ladygagalatestnews.blogspot.com/">Lady Gaga News</a></li>
+				<li><a target="_blank" href="http://bodybuilders.glambase.com/">Lady Gaga News</a></li>                
+			</ul>
+		</li>
+        
+        <li class="top"><a  target="_blank" class="top_link" href="http://celebrities.raag.fm/"><span class="down">Photos</span></a>
+			<ul class="sub">
+				
+				<li><a target="_blank" href="http://shirtlessbollywood.raag.fm/">English Music</a></li>
+				<li><a target="_blank" href="http://crazyimagesonline.blogspot.com/">Justin Bieber News</a></li>
+				<li><a target="_blank" href="http://gallery.pz10.com/">Miley Cyrus News</a></li>
+				<li><a target="_blank" href="http://cinemawiki.raag.fm/">Selena Gomez News</a></li>
+				<li><a target="_blank" href="http://events.raag.fm/">Britney Spears News</a></li>
+				<li><a target="_blank" href="http://getbollywoodevents.blogspot.com/">Lady Gaga News</a></li>
+                <li><a target="_blank" href="http://2013hqwallpapers.blogspot.com/">2013 HD Wallpapers</a></li>
+                <li><a target="_blank" href="http://primewallapers.com/">Prime Wallpapers</a></li>
+                <li><a target="_blank" href="http://wallpapers.raag.fm/">Old Wallpapers</a></li>
+                
+			</ul>
+		</li>
+              <li class="top"><a  target="_blank" class="top_link" href="http://primeautomobiles.com"><span class="down">Autos</span></a>
+			<ul class="sub">
+				<li><a target="_blank" href="http://www.celebritycarszone.com/">Celebrities Cars Photos</a></li>
+				<li><a target="_blank" href="http://www.primewallpapers.com/search?q=cars">Cars Wallpapers</a></li>
+				
+			</ul>
+		</li>
+        
+         <li class="top"><a  target="_blank" class="top_link" href="http://bolywood.raag.fm/"><span class="down">Movies</span></a>
+			<ul class="sub">
+		
+				<li><a target="_blank" href="http://moviereviewszone.blogspot.com/">Movies Reviews</a></li>
+				<li><a target="_blank" href="http://www.junkmp4.com/">All Movies</a></li>
+				<li><a target="_blank" href="http://punjabimoviesongs.blogspot.com/">Punjabi Movies</a></li>
+				<li><a target="_blank" href="http://pollywood.raag.fm/">Pollywood</a></li>
+				<li><a target="_blank" href="http://events.raag.fm/">Britney Spears News</a></li>
+				<li><a target="_blank" href="http://tamil.raag.fm/">Tamil Movies Updates</a></li>
+			</ul>
+		</li>
+         <li class="top"><a  target="_blank" class="top_link" href="http://blogs.raag.fm/"><span class="down">Blog's</span></a>
+			<ul class="sub">
+				<li><a target="_blank" href="http://jobs.pz10.com/">Jobs</a></li>
+				<li><a target="_blank" href="http://cricket.pz10.com/">Cricket Updates</a></li>
+				<li><a target="_blank" href="http://iplt20live.pz10.com/">IPL T20 2013</a></li>
+				<li><a target="_blank" href="http://www.punjabizone.com/">Punjabi Zone</a></li>
+				<li><a target="_blank" href="http://punjabimoviesongs.blogspot.com/">Punjabi Movies</a></li>
+				<li><a target="_blank" href="http://missnavneet.raag.fm/">Miss Navneet Kaur</a></li>
+				<li><a target="_blank" href="http://blog.pz10.com">Pz10 Blog</a></li>
+					<li><a target="_blank" href="http://taxindia.pz10.com">India Tax's Info</a></li>
+	<li><a target="_blank" href="http://taxfiles.pz10.com/">Imp. Tax Files</a></li>			</ul>
+		</li>
+
+	</ul>
+</td>
+</tr>
+</table>
+<table style="width: 935px" cellspacing="0" cellpadding="10" class="style1" align="center">
+	<tr>
+		<td>
+<table style="width: 100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td>
+	<div class="socialness">
+        <div class="facebook-fan-box">
+            <div class="fb-like" data-href="http://www.facebook.com/raag.fm" data-send="false" data-layout="button_count" data-width="97" data-show-faces="false" data-font="verdana"></div>
+        </div>
+        <div class="twitter-follow-box">
+            <a href="http://twitter.com/raagdotfm" class="twitter-follow-button" data-show-count="false">Follow @ raagdotfm</a>
+    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+        </div>
+        <div class="google-plusone-box">
+                <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<g:plusone size="medium" href="http://raag.fm"></g:plusone>
+        </div>
+    </div>	
+</td>
+<td><span class="style4"><form method="GET" action="/search.php"><b>
+<input type=text name=search_string value="Refined search..." onFocus="clearText(this)" style="font-family: Verdana; font-size: 8pt"><br>
+<select name=search_type style="font-family: Verdana; font-size: 8pt">
+<option value=singer>Artist</option>
+<option value=album>Album</option>
+<option value=song>Song Name</option>
+</select>&nbsp;<input type=submit value=Search style="font-family: Verdana; font-size: 8pt"></b></form></td><td width="300"><span class="style4">
+
+
+Recent searches <b><a class="style2" href="/search-bhai-singer-0">bhai</a></b>, <b><a class="style2" href="/search-Dj Shadow Dubai-singer-0">Dj Shadow Dubai</a></b>, <b><a class="style2" href="/search-sherry-singer-0">sherry</a></b>, <b><a class="style2" href="/search-Kaulan-song-0">Kaulan</a></b> or <b><a class="style2" href="/search-Ranjha -song-0">Ranjha </a></b>.</td></tr></table>
+<br>
+<table style="width: 100%" cellspacing="0" cellpadding="0">
+			<tr>
+				<td valign="top"><img alt="" src="b.gif" width="185" height="1">
+				<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/"><img border="0" alt="Home" src="/images/small-icons-home.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/">Raagfm home</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/people/playlist.php"><img border="0" alt="My Library" src="/images/small-icons-arrow-favorite.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/people/playlist.php">My library</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><span class="style4">&nbsp;&nbsp;<img border="0" alt="Popular songs" src="/images/small-icons-arrow-down.gif" width="8" height="5">&nbsp;&nbsp;&nbsp;<b>Smart playlists</b></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/view-top"><img border="0" alt="Popular songs" src="/images/small-icons-playlist.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/view-top">Top 40 most played</a></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/view-rated"><img border="0" alt="Top rated albums" src="/images/small-icons-playlist.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/view-rated">Top rated albums</a></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/view-new"><img border="0" alt="Popular songs" src="/images/small-icons-playlist.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/view-new">Recently added</a></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/view-hd"><img border="0" alt="Popular songs" src="/images/small-icons-playlist.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/view-hd">High Definition audio</a></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/view-featured"><img border="0" alt="Popular songs" src="/images/small-icons-playlist.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/view-featured">Featured albums</a></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/artists-list-all"><img border="0" alt="All artist's list" src="/images/small-icons-playlist.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/artists-list-all">All artist's list</a></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><a class="style2" href="/albums-list-all"><img border="0" alt="All album's list" src="/images/small-icons-playlist.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/albums-list-all">All album's list</a></div>
+<!--<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><span class="style4"><a class="style2" href="/people-favorite-today"><img border="0" alt="Popular songs" src="/images/small-icons-people.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/people-favorite-today">People's favorite today</a></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><span class="style4"><a class="style2" href="/people-favorite-overall"><img border="0" alt="Popular songs" src="/images/small-icons-people.gif" width="16" height="16"></a>&nbsp;<a class="style2" href="/people-favorite-overall">People's Favorite all time</a></div>-->
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<div><script type="text/javascript"><!--
+google_ad_client = "pub-7357575986873010";
+google_ad_slot = "1782032560";
+google_ad_width = 180;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="style3 topleftnaviholdr">South Asian Music</div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="punjabi" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-1-Punjabi">punjabi</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="hindi" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-2-Hindi">hindi</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="unknown talent" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-3-Unknown_Talent">unknown talent</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="hindi movies" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-4-Hindi_Movies">hindi movies</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="punjabi movies" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-5-Punjabi_Movies">punjabi movies</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="shabad gurbani" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-6-Shabad_Gurbani">shabad gurbani</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="uk punjabi" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-7-UK_Punjabi">uk punjabi</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="ghazals" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-8-Ghazals">ghazals</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="pop" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-9-Pop">pop</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="sad songs" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-10-Sad_Songs">sad songs</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="comedy" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-11-Comedy">comedy</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="qawwali" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-12-Qawwali">qawwali</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="bhakti sangeet" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-13-Bhakti_Sangeet">bhakti sangeet</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="urdu" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-14-Urdu">urdu</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="tamil" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-15-Tamil">tamil</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="pakistani" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-16-Pakistani">pakistani</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="telugu" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-18-Telugu">telugu</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="bengali" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-21-Bengali">bengali</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="malayalam" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-26-Malayalam">malayalam</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="kannada" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-27-Kannada">kannada</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="gujarati" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-28-Gujarati">gujarati</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="marathi" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-29-Marathi">marathi</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="rajasthani" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-30-Rajasthani">rajasthani</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="haryanavi" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-33-Haryanavi">haryanavi</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="oriya" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-34-Oriya">oriya</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="sindhi" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-35-Sindhi">sindhi</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="kashmiri" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-36-Kashmiri">kashmiri</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="assamese" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-39-Assamese">assamese</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="hindustani instrumental" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-40-Hindustani_Instrumental">hindustani instrumental</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="jugalbandhi" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-44-Jugalbandhi">jugalbandhi</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="fusion" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-45-Fusion">fusion</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="patriotic" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-46-Patriotic">patriotic</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="compilations" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-47-Compilations">compilations</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="nepali" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-68-Nepali">nepali</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="carnatic movies" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-69-Carnatic_Movies">carnatic movies</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="bhojpuri" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-70-Bhojpuri">bhojpuri</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="kumaoni and uttaranchali" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-71-Kumaoni_and_Uttaranchali">kumaoni and uttaranchali</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="sanskrit" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-72-Sanskrit">sanskrit</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="arabic" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-74-Arabic">arabic</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="upcoming movies" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-118-Upcoming_Movies">upcoming movies</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="dogri music" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-119-Dogri_Music">dogri music</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="classical" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-121-Classical">classical</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+<div class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#ffffff'"><img border="0" alt="single track" src="/images/small-icons-arrow-right.gif" width="5" height="8">&nbsp;&nbsp;<a class="style2" href="/tag-122-Single_Track">single track</a></div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+
+				</td>
+				<td style="width: 20px"><img alt="" src="b.gif" width="5" height="1"></td>
+				<td valign="top"><table cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="center">
+<iframe scrolling="no" marginheight="0" marginwidth="0" frameborder="0" src="/ads-iframe/ad-google-728x90.html" width="728" height="90"><p>Your browser does not support iframes.</p></iframe>
+</td>
+</tr>
+</table><script src="http://code.jquery.com/jquery-latest.js"></script>
+<script>
+$(document).ready(function() {
+    $("#responsecontainer").load("recent-listeners.php");
+    var refreshId = setInterval(function() {
+        $("#responsecontainer").load('recent-listeners.php?randval='+ Math.random());
+    }, 9000);
+});
+</script>
+<div class="grey_block" style="width: 728px;">
+				<br><div class="newStyle3">Album's List</div>
+				<div class="style2"><b>
+&nbsp;<a class="style2" href="/albums-list-all">All</a>
+&nbsp;<a class="style2" href="/albums-list-0_9">0 to 9</a>
+&nbsp;<a class="style2" href="/albums-list-a">A</a>
+&nbsp;<a class="style2" href="/albums-list-b">B</a>
+&nbsp;<a class="style2" href="/albums-list-c">C</a>
+&nbsp;<a class="style2" href="/albums-list-d">D</a>
+&nbsp;<a class="style2" href="/albums-list-e">E</a>
+&nbsp;<a class="style2" href="/albums-list-f">F</a>
+&nbsp;<a class="style2" href="/albums-list-g">G</a>
+&nbsp;<a class="style2" href="/albums-list-h">H</a>
+&nbsp;<a class="style2" href="/albums-list-i">I</a>
+&nbsp;<a class="style2" href="/albums-list-j">J</a>
+&nbsp;<a class="style2" href="/albums-list-k">K</a>
+&nbsp;<a class="style2" href="/albums-list-l">L</a>
+&nbsp;<a class="style2" href="/albums-list-m">M</a>
+&nbsp;<a class="style2" href="/albums-list-n">N</a>
+&nbsp;<a class="style2" href="/albums-list-o">O</a>
+&nbsp;<a class="style2" href="/albums-list-p">P</a>
+&nbsp;<a class="style2" href="/albums-list-q">Q</a>
+&nbsp;<a class="style2" href="/albums-list-r">R</a>
+&nbsp;<a class="style2" href="/albums-list-s">S</a>
+&nbsp;<a class="style2" href="/albums-list-t">T</a>
+&nbsp;<a class="style2" href="/albums-list-u">U</a>
+&nbsp;<a class="style2" href="/albums-list-v">V</a>
+&nbsp;<a class="style2" href="/albums-list-w">W</a>
+&nbsp;<a class="style2" href="/albums-list-x">X</a>
+&nbsp;<a class="style2" href="/albums-list-y">Y</a>
+&nbsp;<a class="style2" href="/albums-list-z">Z</a></b></div>
+				<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+				<br><div class="newStyle3">Artist's List</div>
+				<div class="style2"><b>
+&nbsp;<a class="style2" href="/artists-list-all">All</a>
+&nbsp;<a class="style2" href="/artists-list-0_9">0 to 9</a>
+&nbsp;<a class="style2" href="/artists-list-a">A</a>
+&nbsp;<a class="style2" href="/artists-list-b">B</a>
+&nbsp;<a class="style2" href="/artists-list-c">C</a>
+&nbsp;<a class="style2" href="/artists-list-d">D</a>
+&nbsp;<a class="style2" href="/artists-list-e">E</a>
+&nbsp;<a class="style2" href="/artists-list-f">F</a>
+&nbsp;<a class="style2" href="/artists-list-g">G</a>
+&nbsp;<a class="style2" href="/artists-list-h">H</a>
+&nbsp;<a class="style2" href="/artists-list-i">I</a>
+&nbsp;<a class="style2" href="/artists-list-j">J</a>
+&nbsp;<a class="style2" href="/artists-list-k">K</a>
+&nbsp;<a class="style2" href="/artists-list-l">L</a>
+&nbsp;<a class="style2" href="/artists-list-m">M</a>
+&nbsp;<a class="style2" href="/artists-list-n">N</a>
+&nbsp;<a class="style2" href="/artists-list-o">O</a>
+&nbsp;<a class="style2" href="/artists-list-p">P</a>
+&nbsp;<a class="style2" href="/artists-list-q">Q</a>
+&nbsp;<a class="style2" href="/artists-list-r">R</a>
+&nbsp;<a class="style2" href="/artists-list-s">S</a>
+&nbsp;<a class="style2" href="/artists-list-t">T</a>
+&nbsp;<a class="style2" href="/artists-list-u">U</a>
+&nbsp;<a class="style2" href="/artists-list-v">V</a>
+&nbsp;<a class="style2" href="/artists-list-w">W</a>
+&nbsp;<a class="style2" href="/artists-list-x">X</a>
+&nbsp;<a class="style2" href="/artists-list-y">Y</a>
+&nbsp;<a class="style2" href="/artists-list-z">Z</a></b></div>
+</div>
+<div class="clear"></div>
+<div class="grey_block" style="width: 335px; height:310px; float:left;">
+<br><div class="newStyle3">People listening music on Raag.fm</div>
+				<div class="style56">Login using facebook to see your name here.</div>
+<br><div id="responsecontainer">
+<div  style="width: 35px; float:left;"><a href="/people/100004274920838-Rkt Tandon-library"><img alt="Rkt Tandon" src="https://graph.facebook.com/100004274920838/picture" width="30" height="30"></a></div>
+<div><span class="style56">&nbsp;<b><a class="style56" href="/people/100004274920838-Rkt Tandon-library">Rkt Tandon</a></b> listened to the song<br>&nbsp;<b><a class="style56" href="/Bhakti Sangeet/songs-6574-Hamre_Ramji_Se_Ram_Ram_Kahiyo-Narinder_Chanchal">Shri Ram Chandra Krupalu</a></b> by <b><a class="style56" href="/artist-926-Narinder_Chanchal">Narinder Chanchal</a></b><br><br></div>
+
+
+
+<div  style="width: 35px; float:left;"><a href="/people/100002461834744-Nav Kingra-library"><img alt="Nav Kingra" src="https://graph.facebook.com/100002461834744/picture" width="30" height="30"></a></div>
+<div><span class="style56">&nbsp;<b><a class="style56" href="/people/100002461834744-Nav Kingra-library">Nav Kingra</a></b> listened to the song<br>&nbsp;<b><a class="style56" href="/UK Punjabi/songs-36237-Detonation_2-Parasite_Dark">D2 Outro</a></b> by <b><a class="style56" href="/artist-6423-Parasite_Dark">Parasite Dark</a></b><br><br></div>
+
+
+
+<div  style="width: 35px; float:left;"><a href="/people/100002007849844-Gurpal Singh Bahra-library"><img alt="Gurpal Singh Bahra" src="https://graph.facebook.com/100002007849844/picture" width="30" height="30"></a></div>
+<div><span class="style56">&nbsp;<b><a class="style56" href="/people/100002007849844-Gurpal Singh Bahra-library">Gurpal Singh Bahra</a></b> listened to the song<br>&nbsp;<b><a class="style56" href="/Shabad Gurbani/songs-28288-Darshan_Parseyi_Gurur_Kei-Bhai_Harnam_Singh_Ji_(Sri_Nagar_Wale)">Tudh Ditthe Sachche Patshah</a></b> by <b><a class="style56" href="/artist-968-Bhai_Harnam_Singh_Ji_(Sri_Nagar_Wale)">Bhai Harnam Singh Ji (Sri Nagar Wale)</a></b><br><br></div>
+
+
+
+<div  style="width: 35px; float:left;"><a href="/people/100001044670288-Brar Manila-library"><img alt="Brar Manila" src="https://graph.facebook.com/100001044670288/picture" width="30" height="30"></a></div>
+<div><span class="style56">&nbsp;<b><a class="style56" href="/people/100001044670288-Brar Manila-library">Brar Manila</a></b> listened to the song<br>&nbsp;<b><a class="style56" href="/Punjabi/songs-39236-Salaam_Zindgi_Debi_Live_5_(CD_2)-Debi_Makhsospuri">Apne Aap Se</a></b> by <b><a class="style56" href="/artist-98-Debi_Makhsospuri">Debi Makhsospuri</a></b><br><br></div>
+
+
+
+<div  style="width: 35px; float:left;"><a href="/people/100002059368676-Balram Sonu-library"><img alt="Balram Sonu" src="https://graph.facebook.com/100002059368676/picture" width="30" height="30"></a></div>
+<div><span class="style56">&nbsp;<b><a class="style56" href="/people/100002059368676-Balram Sonu-library">Balram Sonu</a></b> listened to the song<br>&nbsp;<b><a class="style56" href="/Urdu/songs-3553-Gal_Muki_Na_Sajan_Nal_Meri_Vol_1-Ustad_Badar_Miandad_Khan">Ratan Diyan Needran</a></b> by <b><a class="style56" href="/artist-713-Ustad_Badar_Miandad_Khan">Ustad Badar Miandad Khan</a></b><br><br></div>
+
+
+
+<div  style="width: 35px; float:left;"><a href="/people/100001210015386-Jagjeet Singh-library"><img alt="Jagjeet Singh" src="https://graph.facebook.com/100001210015386/picture" width="30" height="30"></a></div>
+<div><span class="style56">&nbsp;<b><a class="style56" href="/people/100001210015386-Jagjeet Singh-library">Jagjeet Singh</a></b> listened to the song<br>&nbsp;<b><a class="style56" href="/Punjabi/songs-212-Nakhra_Chadi_Jawani_Da-Romey_Gill">Kalli Ne Mahiya</a></b> by <b><a class="style56" href="/artist-39-Romey_Gill">Romey Gill</a></b><br><br></div>
+
+
+
+</span>
+</div></div>
+<div class="grey_block" style="width: 335px; height:310px; float:right;">
+<br><script type="text/javascript"><!--
+google_ad_client = "ca-pub-7357575986873010";
+/* raagfm 336 280 */
+google_ad_slot = "5072616962";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="clear"></div>
+<!--				<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+				<div style="float:left" class="newStyle2">Staff Picks</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td width="100%"><br><iframe scrolling="no" marginheight="0" marginwidth="0" frameborder="0" src="http://i.pz10.com/music/album_art/flow/" width="729" height="200"><p>Your browser does not support iframes.</p></iframe>
+</td>
+</tr>
+</table>-->
+<div class="grey_block" style="width: 728px;">
+				<br><div class="newStyle3">New songs and albums</div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39467-Punjabi_Doze-Ravinder_Grewal"><img class="albumcoverborder" alt="Ravinder Grewal Punjabi Doze" src="http://i.pz10.com/music/album_art/1/39467.jpg" width="100" height="100" /></a><span class="style56"><br>Ravinder Grewal<br>Punjabi Doze</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi_Movies/songs-39447-Oye_Hoye_Pyar_Ho_Gaya-Sherry_Mann"><img class="albumcoverborder" alt="Sherry Mann Oye Hoye Pyar Ho Gaya" src="http://i.pz10.com/music/album_art/5/39447.jpg" width="100" height="100" /></a><span class="style56"><br>Sherry Mann<br>Oye Hoye Pyar Ho Gaya</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39431-Tere_Wargi-Dj_Dips"><img class="albumcoverborder" alt="Dj Dips Tere Wargi" src="http://i.pz10.com/music/album_art/1/39431.jpg" width="100" height="100" /></a><span class="style56"><br>Dj Dips<br>Tere Wargi</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi_Movies/songs-39428-Jatts_In_Golmaal-Roshan_Prince"><img class="albumcoverborder" alt="Roshan Prince Jatts In Golmaal" src="http://i.pz10.com/music/album_art/5/39428.jpg" width="100" height="100" /></a><span class="style56"><br>Roshan Prince<br>Jatts In Golmaal</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39427-Dil_(The_Heart)-Simar_Mavi"><img class="albumcoverborder" alt="Simar Mavi Dil (The Heart)" src="http://i.pz10.com/music/album_art/1/39427.jpg" width="100" height="100" /></a><span class="style56"><br>Simar Mavi<br>Dil (The Heart)</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39404-Akada_Vakhaundi-Jagga_Dhaliwal"><img class="albumcoverborder" alt="Jagga Dhaliwal Akada Vakhaundi" src="http://i.pz10.com/music/album_art/1/39404.jpg" width="100" height="100" /></a><span class="style56"><br>Jagga Dhaliwal<br>Akada Vakhaundi</span></td>         </tr>
+<tr>
+         </tr>
+        </table>
+<div class="seemore" style="float:right"><a class="style2" href="/view-new">More New songs and albums</a></div>
+<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<script type="text/javascript"><!--
+google_ad_client = "pub-7357575986873010";
+/* 728x90, created 7/12/08 music.raag.fm */
+google_ad_slot = "8953419731";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td></tr></table>
+</div>
+<div class="clear"></div>
+<div class="grey_block" style="width: 335px; float:left;">
+				<br><div class="newStyle3">Recent top played albums</div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td width="60%">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39005-Aashiqui_2-Various"><img class="albumcoverborder" alt="Various Aashiqui 2" src="http://i.pz10.com/music/album_art/4/39005.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Aashiqui 2</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi_Movies/songs-39447-Oye_Hoye_Pyar_Ho_Gaya-Sherry_Mann"><img class="albumcoverborder" alt="Sherry Mann Oye Hoye Pyar Ho Gaya" src="http://i.pz10.com/music/album_art/5/39447.jpg" width="100" height="100" /></a><span class="style56"><br>Sherry Mann<br>Oye Hoye Pyar Ho Gaya</span></td>         </tr>
+<tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39403-Yamla_Pagla_Deewana_2-Various"><img class="albumcoverborder" alt="Various Yamla Pagla Deewana 2" src="http://i.pz10.com/music/album_art/4/39403.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Yamla Pagla Deewana 2</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39237-Yeh_Jawaani_Hai_Deewani-Various"><img class="albumcoverborder" alt="Various Yeh Jawaani Hai Deewani" src="http://i.pz10.com/music/album_art/4/39237.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Yeh Jawaani Hai Deewani</span></td>         </tr>
+        </table>
+        </div>
+<div class="seemore" style="float:right"><a class="style2" href="/view-top">View More Top songs and albums</a></div>
+<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+</td></tr></table>
+</div>
+<div class="grey_block" style="width: 335px; float:right;">
+				<br><div class="newStyle3">Top rated albums</div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td width="60%">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-38109-Yuvraj-Yuvraj_Hans"><img class="albumcoverborder" alt="Yuvraj Hans Yuvraj" src="http://i.pz10.com/music/album_art/1/38109.jpg" width="100" height="100" /></a><span class="style56"><br>Yuvraj Hans<br>Yuvraj</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-25505-Deewana_Ft_Rani_Randeep_&_Suman_Bhatti-S_B_Armaan"><img class="albumcoverborder" alt="S B Armaan Deewana Ft Rani Randeep & Suman Bhatti" src="http://i.pz10.com/music/album_art/1/25505.jpg" width="100" height="100" /></a><span class="style56"><br>S B Armaan<br>Deewana Ft Rani Randeep & Suman Bhatti</span></td>         </tr>
+<tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-36733-Gangs_Of_Wasseypur-Manoj_Tiwari_Mridul"><img class="albumcoverborder" alt="Manoj Tiwari Mridul Gangs Of Wasseypur" src="http://i.pz10.com/music/album_art/4/36733.jpg" width="100" height="100" /></a><span class="style56"><br>Manoj Tiwari Mridul<br>Gangs Of Wasseypur</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Tamil/songs-35786-3-Various"><img class="albumcoverborder" alt="Various 3" src="http://i.pz10.com/music/album_art/15/35786.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>3</span></td>         </tr>
+        </table>
+        </div>
+<div class="seemore" style="float:right"><a class="style2" href="/view-rated">View More Rated songs and albums</a></div>
+<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+</td></tr></table>
+</div>
+<div class="clear"></div>
+<div class="grey_block" style="width: 728px; float:left;">
+				<br><div class="newStyle3">New Hindi Movies music</div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td valign="center">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39403-Yamla_Pagla_Deewana_2-Various"><img class="albumcoverborder" alt="Various Yamla Pagla Deewana 2" src="http://i.pz10.com/music/album_art/4/39403.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Yamla Pagla Deewana 2</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39347-Aurangzeb-Various"><img class="albumcoverborder" alt="Various Aurangzeb" src="http://i.pz10.com/music/album_art/4/39347.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Aurangzeb</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39306-Hum_Hai_Raahi_Car_Ke-Mika_Singh"><img class="albumcoverborder" alt="Mika Singh Hum Hai Raahi Car Ke" src="http://i.pz10.com/music/album_art/4/39306.jpg" width="100" height="100" /></a><span class="style56"><br>Mika Singh<br>Hum Hai Raahi Car Ke</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39261-Bin_Phere_Free_Me_Tere-Various"><img class="albumcoverborder" alt="Various Bin Phere Free Me Tere" src="http://i.pz10.com/music/album_art/4/39261.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Bin Phere Free Me Tere</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39251-Life_Mein_Hungama_Hai-Sonu_Nigam"><img class="albumcoverborder" alt="Sonu Nigam Life Mein Hungama Hai" src="http://i.pz10.com/music/album_art/4/39251.jpg" width="100" height="100" /></a><span class="style56"><br>Sonu Nigam<br>Life Mein Hungama Hai</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Hindi_Movies/songs-39237-Yeh_Jawaani_Hai_Deewani-Various"><img class="albumcoverborder" alt="Various Yeh Jawaani Hai Deewani" src="http://i.pz10.com/music/album_art/4/39237.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Yeh Jawaani Hai Deewani</span></td>         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+        </table>
+        </div>
+<div class="seemore" style="float:right"><a class="style2" href="/tag-4-Hindi_Movies">View More Hindi songs and albums</a></div>
+<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+</td></tr></table>
+</div>
+<div class="clear"></div>
+<div class="grey_block" style="width: 728px;">
+				<br><div class="newStyle3">New Punjabi music</div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td valign="center">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39467-Punjabi_Doze-Ravinder_Grewal"><img class="albumcoverborder" alt="Ravinder Grewal Punjabi Doze" src="http://i.pz10.com/music/album_art/1/39467.jpg" width="100" height="100" /></a><span class="style56"><br>Ravinder Grewal<br>Punjabi Doze</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39431-Tere_Wargi-Dj_Dips"><img class="albumcoverborder" alt="Dj Dips Tere Wargi" src="http://i.pz10.com/music/album_art/1/39431.jpg" width="100" height="100" /></a><span class="style56"><br>Dj Dips<br>Tere Wargi</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39427-Dil_(The_Heart)-Simar_Mavi"><img class="albumcoverborder" alt="Simar Mavi Dil (The Heart)" src="http://i.pz10.com/music/album_art/1/39427.jpg" width="100" height="100" /></a><span class="style56"><br>Simar Mavi<br>Dil (The Heart)</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39404-Akada_Vakhaundi-Jagga_Dhaliwal"><img class="albumcoverborder" alt="Jagga Dhaliwal Akada Vakhaundi" src="http://i.pz10.com/music/album_art/1/39404.jpg" width="100" height="100" /></a><span class="style56"><br>Jagga Dhaliwal<br>Akada Vakhaundi</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39389-Nere_Hoke_Sun-Surjit_Sagar"><img class="albumcoverborder" alt="Surjit Sagar Nere Hoke Sun" src="http://i.pz10.com/music/album_art/1/39389.jpg" width="100" height="100" /></a><span class="style56"><br>Surjit Sagar<br>Nere Hoke Sun</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/Punjabi/songs-39332-Jatt_Baal_Duga_(Jatts_In_Golmaal)-Mika_Singh"><img class="albumcoverborder" alt="Mika Singh Jatt Baal Duga (Jatts In Golmaal)" src="http://i.pz10.com/music/album_art/1/39332.jpg" width="100" height="100" /></a><span class="style56"><br>Mika Singh<br>Jatt Baal Duga (Jatts In Golmaal)</span></td>         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+        </table>
+        </div>
+<div class="seemore" style="float:right"><a class="style2" href="/tag-1-Punjabi">View More Punjabi songs and albums</a></div>
+<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+</td></tr></table>
+</div>
+<div class="clear"></div>
+<div class="grey_block" style="width: 728px;">
+				<br><div class="newStyle3">New UK Punjabi music</div>
+<div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td valign="center">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+<td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/UK_Punjabi/songs-39330-The_Desi_Slow_Jamz_Mixtape-Dj_Sarj"><img class="albumcoverborder" alt="Dj Sarj The Desi Slow Jamz Mixtape" src="http://i.pz10.com/music/album_art/7/39330.jpg" width="100" height="100" /></a><span class="style56"><br>Dj Sarj<br>The Desi Slow Jamz Mixtape</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/UK_Punjabi/songs-39197-Daddy_Da_Cash(Live_Concert)-RDB"><img class="albumcoverborder" alt="RDB Daddy Da Cash(Live Concert)" src="http://i.pz10.com/music/album_art/7/39197.jpg" width="100" height="100" /></a><span class="style56"><br>RDB<br>Daddy Da Cash(Live Concert)</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/UK_Punjabi/songs-39166-_Kuldip_Manak_(Remix)_Vol._1-Kuldeep_Manak"><img class="albumcoverborder" alt="Kuldeep Manak  Kuldip Manak (Remix) Vol. 1" src="http://i.pz10.com/music/album_art/7/39166.jpg" width="100" height="100" /></a><span class="style56"><br>Kuldeep Manak<br> Kuldip Manak (Remix) Vol. 1</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/UK_Punjabi/songs-39003-Blacklisted-GS_Chaggar"><img class="albumcoverborder" alt="GS Chaggar Blacklisted" src="http://i.pz10.com/music/album_art/7/39003.jpg" width="100" height="100" /></a><span class="style56"><br>GS Chaggar<br>Blacklisted</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/UK_Punjabi/songs-38992-Propose-Various"><img class="albumcoverborder" alt="Various Propose" src="http://i.pz10.com/music/album_art/7/38992.jpg" width="100" height="100" /></a><span class="style56"><br>Various<br>Propose</span></td><td  style="vertical-align: top" align="center" width="16%" class="topleftnaviholdr" onMouseover="this.style.backgroundColor='#d0e4f0'" onMouseout="this.style.backgroundColor='#f5f5f5'">
+          <br><a href="/UK_Punjabi/songs-38925-Achko_Machko_(Remix)-Dj_Nkd"><img class="albumcoverborder" alt="Dj Nkd Achko Machko (Remix)" src="http://i.pz10.com/music/album_art/7/38925.jpg" width="100" height="100" /></a><span class="style56"><br>Dj Nkd<br>Achko Machko (Remix)</span></td>         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+<tr>
+         </tr>
+        </table>
+        </div>        
+</td></tr></table>
+<div class="seemore" style="float:right"><a class="style2" href="/tag-7-UK_Punjabi">View More UK Punjabi songs and albums</a></div>
+<br><div class="div-sep" style="height:1px"><img alt="" src="b.gif" width="1" height="1"></div>
+</div>
+<!--<table cellspacing="5" cellpadding="5"  width="100%" height="90">
+  <tr>
+    <td><p align="center"></td>
+  </tr>
+</table>--></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<div align="center"><a class="style4" href="http://music2.pz10.com/" target="_blank">Punjabi Songs</a> | <a class="style4" href="http://lyrics.raag.fm/" target="_blank">Bollywood Lyrics</a> | <a class="style4" href="http://jattnetwork.com/" target="_blank">Hindi Punjab Music Blog</a> | <a class="style4" href="http://raag.fm/links/links.php" target="_blank">Link Exchange</a> | <a class="style4" href="http://raag.fm/links/index.php" target="_blank">Submit Your Link</a></div>
+<p align="center">
+<span class="style4">© Raagfm is IPRS licensed website.</span> <a class="style4" href="/contact/privacy-policy.php">Privacy Policy</a> <a class="style4" href="/contact/">Contact</a>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-16236169-1");
+pageTracker._setDomainName(".raag.fm");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=8467554; 
+var sc_invisible=1; 
+var sc_security="7d00c99a"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter.js'></"+"script>");</script>
+<noscript><div class="statcounter"><a title="web analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/8467554/0/7d00c99a/1/"
+alt="web analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+</body>
+</html>
+<!--Server Name: 173.231.142.149 --><!-- Cached 13th May 2013 10:55 -->
