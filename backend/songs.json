@@ -118,5 +118,32 @@
     "type": "local",
     "duration": "05:21",
     "filename": "Jhum_Jhum_Nache_Dekho_Bhakt_Ha_8.mp3"
-  }
+  },
+  {
+  "id": "13",
+  "title": "Sanwariya Kardo Beda Paar Mp3 Song (DjChand.Org)",
+  "artist": "Sunil Sharma",
+  "cover": "https://cdn.phototourl.com/member/2026-10-11-7854de55-c0ef-4ca2-b426-edafbedaaacc.jpg",
+  "link": "https://music-player-wji3.onrender.com/songs/Sanwariya%20Kardo%20Beda%20Paar%20Mp3%20Song-(DjChand.org).mp3",
+  "type": "local",
+  "duration": "04:59"
+},
+{
+  "id": "14",
+  "title": "Upar Wala Aapane Sat H Hai High Bass Remix",
+  "artist": "Sinjay Kumar",
+  "cover": "https://cdn.phototourl.com/member/2026-10-11-a70a7c4a-0584-460a-a42b-0697b6f1a730.jpg",
+  "link": "https://music-player-wji3.onrender.com/songs/Upar%20Wala%20Aapane%20Sat%20h%20hai%20High%20Bass%20Remix-(DjChand.org).mp3",
+  "type": "local",
+  "duration": "03:42"
+},
+{
+  "id": "15",
+  "title": "Har Dil Jo Pyar Karega Dj Remix High Bass (DjChand.Org)",
+  "artist": "Salman Khan",
+  "cover": "https://cdn.phototourl.com/member/2026-10-11-3a5a48f5-81d0-4d11-95e9-b97ea41927d3.jpg",
+  "link": "https://music-player-wji3.onrender.com/songs/Har%20Dil%20Jo%20Pyar%20Karega%20Dj%20Remix%20High%20Bass-(DjChand.org).mp3",
+  "type": "local",
+  "duration": "03:59"
+}
 ]
